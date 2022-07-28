@@ -20,7 +20,7 @@
   <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Sardor-21&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Sardor-21&theme=tokyonight">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Sardor&Safarov">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Sardor-21">
 </p>
 </p> -->
  
