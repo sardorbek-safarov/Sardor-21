@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there 👋🏾</h1>
 
-<p align='center'>I am a Frontend developer (React, Nodejs) </p>
+<p align='center'>I am a Frontend developer (React, Vue, Nextjs) </p>
 
 <p align='center'>
 <a href="https://t.me/Sardor_2112" target="_blank">
